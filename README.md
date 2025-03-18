@@ -17,8 +17,11 @@ A
 - navigation.md 추가
 - 로그인 / 로그아웃 추가
 
-## searchbar
-- searchbar  
+## 사이드바 추가 ^_^
+- sidebar
+
+## 서치바 추가 ^_^
+- searchbar 
 
 ## 푸터
 
