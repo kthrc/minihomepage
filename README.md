@@ -18,10 +18,10 @@ A
 - 로그인 / 로그아웃 추가
 
 ## 사이드바 개발
-- SIDEBAR
+- SIDEBAR 
 
 ## 서치바 개발
-- SEARCHBAR
+- SEARCHBAR 
 
 ## 푸터
 
