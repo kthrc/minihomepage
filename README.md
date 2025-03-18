@@ -20,6 +20,9 @@ A
 ## 사이드바 개발
 - SIDEBAR
 
+## 서치바 개발
+- SEARCHBAR
+
 ## 푸터
 
 - footer.md 추가
