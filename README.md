@@ -17,11 +17,10 @@ A
 - navigation.md 추가
 - 로그인 / 로그아웃 추가
 
-## searchbar
-- searchbar  
+## 사이드바 개발 ^_^
+- SIDEBAR
 
-
-## 서치바 개발
+## 서치바 개발 ^_^
 - SEARCHBAR
 
 ## 푸터
